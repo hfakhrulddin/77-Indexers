@@ -1,0 +1,6 @@
+C:\Div\Origin\77-Indexers\77-Indexers\bin\Debug\77-Indexers.exe.config
+C:\Div\Origin\77-Indexers\77-Indexers\bin\Debug\77-Indexers.exe
+C:\Div\Origin\77-Indexers\77-Indexers\bin\Debug\77-Indexers.pdb
+C:\Div\Origin\77-Indexers\77-Indexers\obj\Debug\77-Indexers.csprojResolveAssemblyReference.cache
+C:\Div\Origin\77-Indexers\77-Indexers\obj\Debug\77-Indexers.exe
+C:\Div\Origin\77-Indexers\77-Indexers\obj\Debug\77-Indexers.pdb
